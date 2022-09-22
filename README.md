@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Weather application app
+
+![Screenshot of Weather app](./public/Screenshot.png)
+
+Application created from a [YouTube tutorial](https://www.youtube.com/watch?v=ywR8eMw67b8).
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
