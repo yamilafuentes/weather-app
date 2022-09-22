@@ -1,0 +1,75 @@
+body {
+  background-color: #2F3544;
+  font-size: 0.7rem;
+}
+
+.container {
+  padding: 0%;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.input-group {
+  width: 60%;  
+}
+
+.card-body {
+  padding: 1rem 1rem 0 1.8rem;
+}
+
+.card {
+  max-width: 60%;
+  font-size: 0.7rem;
+  padding: 0% 1% 0% 0;
+}
+
+.description img {
+  width: 50%; 
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+p {
+  margin: 0%;
+}
+
+.card-title {
+  position: absolute;
+  top: 12%;
+  left: 8%;
+}
+
+.card-text {
+  font-size: 0.8rem;
+}
+
+.card-date {
+  position: absolute;
+  top: 25%;
+  left: 8%;
+}
+
+.card-temp {
+  position: absolute;
+  top: 60%;
+  left: 8%;
+  font-size: 2rem;
+}
+
+.card-desc {
+  position: absolute;
+  top: 68%;
+  left: 4%;
+}
+
+.description {
+  height: 60%;
+}
